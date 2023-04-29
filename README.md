@@ -1,2 +1,3 @@
 # stellular-minecraft-launcher
-Stellular Minecraft Launcher
+
+Un launcher para minecraft :D
